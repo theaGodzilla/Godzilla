@@ -1,0 +1,223 @@
+
+#CartLogo{
+    width: 100%;
+    background: #fff;
+    .containerLog{
+        height: 95px;
+        .sotelogo{
+                width: 300px;
+                height: 45px;
+                overflow: hidden;
+                padding-top: 21px;
+                display: inline-block;
+                float: left;
+        }
+        .topcartstep{
+                width: 472px;
+                height: 62px;
+                float: left;
+                margin-top: 20px;
+                overflow: hidden;
+                background: url(../img/cart/cartstep.png)no-repeat 0 0;
+        }
+        .topcarticon{
+                padding-top: 30px;
+                width: 235px;
+                overflow: hidden;
+                img{
+                    max-width: 235px;
+                    max-height: 62px;
+                    margin-left: 11px;
+                }
+        }
+    }
+}
+
+#CartMain{
+    width: 100%;
+    .containerCart{
+        width: 985px;
+        margin: 0 auto;
+        padding-top: 20px;
+        .CartTip{
+            height: 30px;
+            background-color: #ffab2e;
+            color: #fff;
+            padding-left: 14px;
+            line-height: 30px;
+            font-size: 12px;
+        }
+        .CartMaintitle{
+            margin: 20px 0 0px;
+            height: 38px;
+            background: url(../img/cart/home-bt.png) no-repeat;
+            background-position: 0 -845px;
+        }
+        .CartMaintitle1{
+                text-align: right;
+                padding-bottom: 10px;
+                color: #666666;
+                font-size: 14px;
+        }
+        #tablelist{
+            width: 100%;
+            table {
+                border: none;
+                background-color: #fff;
+                width: 100%;
+                table-layout: fixed;
+                color: #666666;
+                font-size: 14px;
+                tr{
+                    th:nth-child(1){
+                        width: 201px;
+                        padding: 1px 1px 1px 10px;
+                    }
+                    th:nth-child(2){
+                        width: 378px;
+                    }
+                }
+                th,td{
+                    border: none;
+                    padding: 5px;
+                    font-weight:normal!important;
+                    text-align: left;
+                }
+                thead{
+                    tr{
+                        height: 37px;
+                        border-left: 5px solid #ed407e;
+                    }
+                }
+                tbody{
+                    td:nth-child(1){
+                            .CartPcheckbox{
+                                display: inline-block;
+                                vertical-align: top;
+                                padding-top: 24px;
+                                padding-left: 10px;
+                            }
+                            .CartPimg{
+                                display: inline-block!important;
+                                width: 100px;
+                                height: 100px;
+                                padding-top: 15px;
+                                padding-bottom: 15px;
+                                .Pimgs{
+                                    vertical-align: top;
+                                    width: 100px;
+                                    height: 100px;
+                                    overflow: hidden;
+                                }
+                            }
+                        }
+                    td:nth-child(2){
+                        width: 378px;
+                        a{
+                            color: #666666;
+                                vertical-align: middle;
+                        }
+                        .CartTablespec{
+                                padding-top: 10px;
+                                color: #b2b2b2;
+                        }
+                        .CartTablepromotions{
+                                padding-top: 10px;
+                                i{
+                                        background: #be9a5e;
+                                        padding: 1px 5px;
+                                        color: #fff;
+                                        font-style: normal;
+                                        display: inline-block;
+                                }
+                        }
+                    }
+                    td:nth-child(4){
+                        input{
+                            float: left;
+                        }
+                        .hao{
+                                width: 20px;
+                                height: 21px;
+                                overflow: hidden;
+                                background: #f4f6f5;
+                                text-align: center;
+                                font: 14px/22px simsun,serif;
+                        }
+                        .quantity{
+                                width: 30px;
+                                height: 19px;
+                                line-height: 19px;
+                                border-width: 1px 0;
+                                border-style: solid;
+                                border-color: #e9e9e9;
+                                text-align: center;
+                        }
+                    }
+                }
+                tfoot{
+                    
+                    tr{
+                        td{
+                            
+                        }
+                    }
+                } 
+            }
+            .CartMaintitle2{
+                padding-top: 19px;
+                text-align: right;
+                padding-bottom: 10px;
+                color: #666666;
+                font-size: 14px;
+            }
+            .CartMaintitle3{
+                font-size: 14px;
+                background: white;
+                margin-top: 19px;
+                margin-bottom: 20px;
+                height: 40px;
+                line-height: 40px;
+                padding-left: 25px;
+                color: #565d67;
+                .tfootdivfl{
+                    display: inline-block;
+                    a{
+                        color: #565d67;
+                    }
+                }
+                .tfootdivfr{
+                    display: inline-block;
+                    .spanri{
+                        padding-right: 35px;
+                    }
+                    #quaspan{
+                        color: #db3f7e;
+                    }
+                    #totalPrice{
+                        color: #db3f7e;
+                        font-size: 18px;
+                    }
+                    input{
+                            height: 40px;
+                            line-height: 40px;
+                            background: #ec3e7d;
+                            font-size: 16px;
+                            color: #fff;
+                            padding: 0 50px;
+                    }
+                }
+                
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+

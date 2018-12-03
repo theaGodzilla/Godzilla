@@ -1,0 +1,141 @@
+body{
+    background: white;
+}
+#RegLogo{
+    width: 100%;
+    .containerReg{
+        height: 95px;
+        img{
+            margin-top: 21px;
+            width: 181px;
+            height: 45px;
+        }
+    }
+}
+#RegContent{
+    width: 100%;
+    margin-top: 40px;
+    .containerReg{
+        height: 511px;
+        background: url(../img/logAndreg/a9287d86b765a411f860cb0ba591be32d074c122.jpg)no-repeat 0 center;
+        .RegContentD{
+            width: 350px;
+            margin-right: 68px;
+            height: 441px;
+            box-shadow: 0 0 5px #e1e1e1, 0 0 15px #e1e1e1;
+            padding: 35px;
+            .RegContentDb{
+                    height: 22px;
+                    line-height: 22px;
+                    font-family: 'Microsoft Yahei';
+                    color: #5a5d6c;
+                    font-weight: normal;
+                    font-size: 21px;
+                    span{
+                        font-size: 12px;
+                        a{
+                                color: #ec3e7d;
+                                    margin-left: 3px;
+                                margin-right: 3px;
+                        }
+                    }
+            }
+            .RegContentDC{
+                margin-top: 40px;
+                div{
+                    height: 61px;
+                    width: 100%;
+                }
+                input{
+                        height: 26px;
+                    line-height: 26px;
+                    padding: 4px;
+                    border:1px solid #cccccc;
+                }
+                .input1:hover{
+                        border-color: #f9a0b4;
+                        box-shadow: 0 0 5px #fbb4b0;
+                }
+                .input1:focus{
+                    border-color: #f9a0b4;
+                    box-shadow: 0 0 5px #fbb4b0;
+                }
+                .inputes{
+                        width: 340px;
+                }
+                .Yzm{
+                    width: 130px;
+                }
+                p{
+                    span{
+                        color: #3e3e3e;
+                            font-size: 13px;
+                            a{
+                                color: #ed3f7e;
+                            }
+                    }
+                }
+                .regbtn{
+                    display: block;
+                    width: 100%;
+                    background: #ec3e7d;
+                    line-height: 40px;
+                    color: #fff;
+                    font-size: 16px;
+                    margin-top: 20px;
+                }
+                .RegContentDCname{
+                    position: relative;
+                    span{
+                        position: absolute;
+                    }
+                    #nameok{
+//                      display: none;
+                            right: 10px;
+                            top: 7px;
+                    }
+                    #sqlok{
+//                      display: none;
+                        left: 10px;
+                        bottom: 2px;
+                    }
+                }
+                .RegContentDCpass{
+                    position: relative;
+                    span{
+                        position: absolute;
+                    }
+                    #passok{
+//                      display: none;
+                        right: 10px;
+                            top: 7px;
+                    }
+                    #passq{
+                        left: 10px;
+                        bottom: 2px;
+                    }
+                }
+                .RegContentDCagan{
+                    position: relative;
+                    #aganok{
+//                      display: none;
+                        position: absolute;
+                        left: 10px;
+                        bottom: 2px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

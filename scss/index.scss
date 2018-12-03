@@ -1,0 +1,959 @@
+@charset "utf-8";
+#HeaderNav{
+    .container{
+        #NavD{
+            position: relative;
+            #NavDTwo{
+                position: absolute;
+                z-index:100;
+                .NavDTwoUl{
+                    .NavDTwoUllis{
+                        padding: 14.25px 14px;
+                        background: #fa3778;
+                        width: 162px;
+                        border-bottom: 1px dotted #fe7dab;
+                        .NavDTwoUllisIfl{
+                            color: white!important;
+                            font-weight: normal;
+                            font-size: 20px;
+                            padding: 5px 0;
+                            margin-right: 11px;
+                        }
+                        .icon-youjiantou{
+                            color: white;
+                            font-weight: normal;
+                            font-size: 13px;
+                            float: right;
+                            line-height: 27px;
+                        }
+                        .NavDTwoUllisIflAho:hover{
+                            color: black!important;
+                        }
+                    }
+                    .NavDTwoUllis:hover{
+                        background: white!important;
+                    }
+                    .NavDTwoUllis:hover .NavDTwoUllisIfl{
+                        color: #FA3778!important;
+                    }
+                    .NavDTwoUllis:hover .icon-youjiantou{
+                        color: #333;
+                    }
+                    .NavDTwoUllis:hover .NavDTwoUllisIflAho{
+                        color: #FA3778;
+                    }
+                    .NavDTwoUllisOne{
+                        #NavDTwoUllisOneD{
+                            background: white;
+                            display: none;
+                            width: 290px;
+                            border: 1px solid #fa3778;
+                            position: absolute;
+                            top: -1px;
+                            left: 189px;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisOneDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                    .NavDTwoUllisOneDUlone{
+                                        height: 41px;
+                                    }
+                                    .NavDTwoUllisOneDUltwo{
+                                        height: 61px;
+                                    }
+                                    .NavDTwoUllisOneDUlThree{
+                                        height: 41px;
+                                    }
+                                    .NavDTwoUllisOneDUlFour{
+                                        height: 56px;
+                                    }
+                                    .NavDTwoUllisOneDUlFive{
+                                        height: 41px;;
+                                    }
+                                    .NavDTwoUllisOneDUlSix{
+                                        height: 56px;
+                                    }
+                                    .NavDTwoUllisOneDUlSeven{
+                                        height: 56px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisTwo{
+                        #NavDTwoUllisTwoD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 52px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisTwoDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 24px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisThree{
+                        #NavDTwoUllisThreeD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 104px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisThreeDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 24px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisFour{
+                        #NavDTwoUllisFourD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 157px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisFourDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 41px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisFive{
+                        #NavDTwoUllisFiveD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 209px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisFiveDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 41px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisSix{
+                        #NavDTwoUllisSixD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 262px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisSixDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 41px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisSeven{
+                        #NavDTwoUllisSevenD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 314px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisSevenDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 41px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .NavDTwoUllisEight{
+                        #NavDTwoUllisEightD{
+                            background: white;
+                            display: none;
+                            position: absolute;
+                            top: 367px;
+                            left: 189px;
+                            width:290px; 
+                            border:1px solid #fa3778;
+                            z-index: -100;
+                            padding: 10px 25px;
+                            #NavDTwoUllisEightDUl{
+                                li{
+                                    h1{
+                                        font-size: 14px;
+                                        color: #555;
+                                        height: 38px;
+                                        line-height: 30px;
+                                        font-weight: 600;
+                                        cursor: pointer;
+                                    }
+                                    h1:hover{
+                                        color: #ec3e7d;
+                                    }
+                                    div{
+                                        width: 100%;
+                                        height: 41px;
+                                        dl{
+                                            dd{
+                                                float: left;
+                                                color: #999;
+                                                font-size: 12px;
+                                                display: inline-block;
+                                                margin-right: 15px;
+                                                margin-bottom: 4px;
+                                                cursor: pointer;
+                                            }
+                                            dd:hover{
+                                                color: #ec3e7d;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+#Banner{
+    width: 100%;
+    margin: 0 auto;
+    #BannerD{
+        width: 100%;
+        height: 420px;
+        position: relative;
+        z-index: 1;
+        .BannerDUl{
+            li{
+                position: absolute;
+                z-index: -110;
+                width: 100%;
+                height: 420px;
+                overflow: hidden;
+                margin: 0;
+                border: 0;
+                a{  
+                    display: block;
+                    max-width: 2800px;
+                    min-width: 1280px;
+                    height: 450px;
+                    margin: 0 auto;
+                }
+            }
+        }
+        .BannerDOl{
+            position: absolute;
+            z-index: 9999999;
+            bottom: 10px;
+            left: 46%;
+            li{
+                width: 15px;
+                height: 15px;
+                float: left;
+                margin-left: 7px;
+                margin-right: 7px;
+                cursor: pointer;
+                border-radius: 50%;
+                background: #333;
+                border: 3px solid rgba(255,255,255,0.7);
+            }.selected{
+                    background: #fa3778;
+                    opacity: 1;
+                }
+        }
+    }
+    #BannerDTwo{
+        width: 100%;
+        height: 28px;
+        background: #ececec;
+        position: relative;
+        z-index: -200;
+        .container{
+            #BannerDTwoD{
+                overflow: hidden;
+                height: 28px;
+                width: 300px;
+                #BannerDTwoUl{
+                    margin-left: 18px;
+                    li{
+                            height: 28px;
+                            line-height: 28px;
+                            color: #999999;
+                            font-size: 12px;
+                    }
+                    li:hover{
+                        color: #fa3778;
+                    }
+                }
+            }
+            
+        }
+    }
+}
+//#f2f2f2
+#MainOne{
+    .MainOneD{
+        .container{
+            height: 190px;
+            padding-top:20px;
+            a{
+                margin-right:15px ;
+                img{
+                    transition: all 0.25s; 
+                }
+            }
+        }
+    }
+    .promi{
+        .container{
+            height: 121px;
+            .promiD{
+                width: 192px;
+                height: 120px;
+                margin-right: 60px;
+                .promiB{
+                    margin-top: 42px;
+                    width: 32px;
+                    height: 32px;
+                    background: url(../img/top/promise_icon.png)no-repeat;
+                }
+                .promiZ{
+                    margin-top: 38px;
+                    margin-left: 10px;
+                    .promiZyuO{
+                        font-size: 18px;
+                        color: #222;
+                    }
+                    .promiZyuT{
+                        font-size: 13px;
+                        color: #999999;
+                        margin-top: 4px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+//每日必看
+#MainEvery{
+    position: relative;
+    .container{
+        height: 1174px;
+        .MainEveryB{
+            width: 100%;
+            height: 26px;
+            margin-top: 10px;
+            margin-bottom: 26px;
+            background: url(../img/top/must_check.png)no-repeat;
+        }
+        .MainEveryContent{
+            width: 100%;
+            #MainEveryContentUl{
+                li{
+                    width: 592px;
+                    height: 278px;
+                    float: left;
+                    cursor: pointer;
+                    #EveryUlisD{
+                        height: 260px;
+                        .EveryUlisDOne{
+                            width: 230px;
+                            height: 260px;
+                            background: white;
+                            text-align: center;
+                            p:nth-child(1){
+                                    margin-top: 60px;
+                                font-size: 22px;
+                                color: #e93b78;
+                            }
+                            p:nth-child(2){
+                                    color: #5a5a5a;
+                                font-size: 17px;
+                                margin-top: 10px;
+                            }
+                            P:nth-child(3){
+                                color: #5a5a5a;
+                                font-size: 13px;
+                                margin-top: 3px;
+                            }
+                            span{
+                                display: inline-block;
+                                    width: 108px;
+                                    height: 32px;
+                                    line-height: 32px;
+                                    text-align: center;
+                                    background: #E93B78;
+                                    color: white;
+                                    font-size: 16px;
+                                    margin-top: 30px;
+                            }
+                            span:hover{
+                                background: #c53265;
+                            }
+                        }
+                    } 
+                    #EveryUlisD:hover{
+                        box-shadow: 0px 3px 2px 0px #E5E5E5;
+                    }
+                }
+                li:nth-child(odd){
+                    margin-right: 16px;
+                }
+            }
+        }
+    }
+    .indexlou{
+        display: none;
+//      opacity: 0;
+        position: absolute;
+        left: 30px;
+        top: 52px;
+        ul{
+            li{
+                width: 45px;
+                height: 47px;
+                padding: 5px;
+                background: #fff;
+                font-size: 11px;
+                text-align: center;
+                margin-bottom: 1px;
+                a{
+                    color: black;
+                    i{
+                        font-size: 25px;
+                        display: block;
+                        margin: 0 auto;
+                        color: black;
+                        font-weight: normal;
+                    }
+                }
+            }
+            li:hover{
+                background: #ec3e7d;
+                a{
+                    color: white;
+                    i{
+                        color: white
+                    }
+                }
+            }
+            .indexlouact{
+                background: #ec3e7d;
+                a{
+                    color: white;
+                    i{
+                        color: white
+                    }
+                }
+            }
+        }
+    }
+}
+
+//限时特卖
+#FlashSale{
+    .container{
+        .FlashSaleB{
+            width: 100%;
+            height: 26px;
+            background: url(../img/top/limitted_offer.png)no-repeat;
+            margin-bottom: 10px;
+            margin-top: 34px;
+        }
+        .FlashSaleBp{
+            font-size: 20px;
+            text-align: center;
+        }
+        .FlashSaleD{
+            margin-top: 26px;
+            #FlashSaleUl{
+                li{
+                    height:386px ;
+                    .FlashSaleUlYY{
+                        background: white;
+                        height: 360px;
+                        position: relative;
+                        .zhekou{
+                                width: 68px;
+                                height: 68px;
+                                left: 16px;
+                                top: 12px;
+                                padding: 23px 20px 0 0;
+                                text-align: center;
+                                display: block;
+                                position: absolute;
+                                background: url(../img/EveryDayLook/discount_circle.png) no-repeat;
+                                z-index: 10;
+                                font-style: normal;
+                                font-weight: bold;
+                                font-size: 16px;
+                                color: #fff;
+                                span{
+                                    font-family: "Arial";
+                                    font-size: 24px;
+                                    font-weight: normal;
+                                    margin-right: 0px;
+                                    display: inline-block;
+                                    font-style: italic;
+                                }
+                        }
+                        .FlashSaleUlcon{
+                            width: 480px;
+                            height: 320px;
+                            margin: 40px 40px 0 40px;
+                            .time{
+                                    height: 24px;
+                                padding: 0 10px;
+                                background-color: #414141;
+                                color: #fff;
+                                line-height: 24px;
+                                text-align: center;
+                                font-size: 13px;
+                                display: inline-block;
+                            }
+                            .con{
+                                    height: 120px;
+                                font-size: 17px;
+                                line-height: 30px;
+                                margin-top: 10px;
+                                margin-bottom: 10px;
+                                color: #222;
+                                span{
+                                        font-size: 34px;
+                                        margin-right: 5px;
+                                        color: #d9d9d9;
+                                        font-family: "楷体";
+                                        line-height: 34px;
+                                }
+                            }
+                            .contitle{
+                                    font-size: 13px;
+                                color: #666;
+                                b{
+                                    color: #ee9c23;
+                                }
+                            }
+                            .conprice{
+                                margin-top: 20px;
+                                span:nth-child(1){
+                                    font-size: 20px;
+                                    display: block;
+                                    float: left;
+                                    margin-top: -4px;
+                                    font-weight: 600;
+                                    color: #fc3f83;
+                                }
+                                span:nth-child(2){
+                                        font-size: 32px;
+                                    font-family: "Arial";
+                                    line-height: 30px;
+                                    font-weight: 600;
+                                    color: #fc3f83;
+                                }
+                                span:nth-child(3){
+                                    color: #999;
+                                        line-height: 23px;
+                                        font-size: 13px;
+                                        text-decoration: line-through;
+                                }
+                            }
+                            .consale{
+                                width: 480px;
+                                height: 32px;
+                                margin-top: 15px;
+                                span{
+                                    width: 100px;
+                                    height: 13px;
+                                    line-height: 13px;
+                                    margin-top: 19px;
+                                    color: #999;
+                                    font-size: 12px;
+                                }
+                                input{
+                                    width: 92px;
+                                    height: 32px;
+                                    line-height: 32px;
+                                    text-align: center;
+                                    cursor: pointer;
+                                    background-color: #e93b78;
+                                    color: #fff;
+                                    font-size: 16px;
+                                    letter-spacing: 1px;
+                                }
+                            }
+                        }
+                    }
+                }
+                li:hover .FlashSaleUlYY{
+                    box-shadow: 0 0 2px 5px #eee;
+                }
+            }
+        }
+        .FlashSaleMove{
+            width: 100%;
+            height: 56px;
+            text-align: center;
+            a{
+                display: inline-block;
+                height: 36px;
+                line-height: 36px;
+                color: white;
+                width: 160px!important;
+                border-radius: 24px;
+                background: #fc3f83!important;
+                font-family: "Arial";
+                font-size: 14px;
+            }
+        }
+    }
+}
+
+#Charts{
+    width: 100%;
+    margin-bottom: 35px;
+    .container{
+        .ChartsB{
+            height: 26px;
+            background: url(../img/EveryDayLook/title_ranking.png) no-repeat;
+            margin: 0 auto;
+            margin-top: 38px;
+            margin-bottom: 26px;
+        }
+        .ChartsMainb{
+            width: 100%;
+            height: 66px;
+            border-radius: 20px;
+            position: relative;
+            top: 0;
+            z-index: 20;
+            .divs{
+                background: white;
+                position: absolute;
+                width: 276px;
+                height: 64px;
+                line-height: 64px;
+                border: 2px solid #fc3f83;
+                border-top-left-radius: 20px;
+                border-top-right-radius:20px;
+                text-align: center;
+                font-size: 22px;
+//              border-bottom: none;
+                cursor: pointer;
+            }
+            .hf{
+                left: 137px;
+            }
+            .cz{
+                left: 459px;
+            }
+            .gh{
+                left: 782px;
+            }
+            .phbacti{
+                border-bottom-color: white;
+            }
+        }
+        .ChartsMain{
+            width: 100%;
+            height: 290px;
+            background: white;
+            border: 2px solid #fc3f83;
+            position: relative;
+            z-index: 10;
+            padding: 20px;
+            ul{
+                li{
+                        position: relative;
+                        border: 2px solid #908484;
+                        padding: 10px;
+                        width: 500px;
+                        height: 100px;
+                        float: left;
+                        margin-left: 47px;
+                        margin-bottom: 15px;
+                        margin-top: 10px;
+                    img{
+                        height: 100px;
+                        width: 100px;
+                    }
+                    div{
+                        width: 380px;
+                        display: inline-block;
+                            margin-left: 10px;
+                        .theone{
+                            margin-top: 10px;
+//                          line-height: 25px;
+                            height: 25px;
+                            a{
+                                color: black;
+                                font-size: 15px;
+                              b{
+                                    color: #ee9c23;
+                                }  
+                            }
+                            
+                        }
+                        .thetwo{
+                            margin-top: 5px;
+                            i{
+                                b{
+                                    color: #fc3f83;
+                                font-size: 23px;
+                                line-height: 20px;
+                                }
+                                del{
+                                     color: #999;
+                                }  
+                            }
+                        }
+                        .thethree{
+                            position: absolute;
+                                bottom: 7px;
+                            right: 15px;
+                            text-align: right;
+                            font-size: 16px;
+                            color: #999;
+                            border-bottom: 0;
+                        }
+                    }
+                    
+                }
+            }
+        }
+    }
+}
+
+//侧边栏
+#Sidebar{
+    height: 100%;
+    width: 40px;
+    background: #4c4c4c;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+}

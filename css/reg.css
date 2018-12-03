@@ -1,0 +1,98 @@
+body {
+  background: white; }
+
+#RegLogo {
+  width: 100%; }
+  #RegLogo .containerReg {
+    height: 95px; }
+    #RegLogo .containerReg img {
+      margin-top: 21px;
+      width: 181px;
+      height: 45px; }
+
+#RegContent {
+  width: 100%;
+  margin-top: 40px; }
+  #RegContent .containerReg {
+    height: 511px;
+    background: url(../img/logAndreg/a9287d86b765a411f860cb0ba591be32d074c122.jpg) no-repeat 0 center; }
+    #RegContent .containerReg .RegContentD {
+      width: 350px;
+      margin-right: 68px;
+      height: 441px;
+      box-shadow: 0 0 5px #e1e1e1, 0 0 15px #e1e1e1;
+      padding: 35px; }
+      #RegContent .containerReg .RegContentD .RegContentDb {
+        height: 22px;
+        line-height: 22px;
+        font-family: 'Microsoft Yahei';
+        color: #5a5d6c;
+        font-weight: normal;
+        font-size: 21px; }
+        #RegContent .containerReg .RegContentD .RegContentDb span {
+          font-size: 12px; }
+          #RegContent .containerReg .RegContentD .RegContentDb span a {
+            color: #ec3e7d;
+            margin-left: 3px;
+            margin-right: 3px; }
+      #RegContent .containerReg .RegContentD .RegContentDC {
+        margin-top: 40px; }
+        #RegContent .containerReg .RegContentD .RegContentDC div {
+          height: 61px;
+          width: 100%; }
+        #RegContent .containerReg .RegContentD .RegContentDC input {
+          height: 26px;
+          line-height: 26px;
+          padding: 4px;
+          border: 1px solid #cccccc; }
+        #RegContent .containerReg .RegContentD .RegContentDC .input1:hover {
+          border-color: #f9a0b4;
+          box-shadow: 0 0 5px #fbb4b0; }
+        #RegContent .containerReg .RegContentD .RegContentDC .input1:focus {
+          border-color: #f9a0b4;
+          box-shadow: 0 0 5px #fbb4b0; }
+        #RegContent .containerReg .RegContentD .RegContentDC .inputes {
+          width: 340px; }
+        #RegContent .containerReg .RegContentD .RegContentDC .Yzm {
+          width: 130px; }
+        #RegContent .containerReg .RegContentD .RegContentDC p span {
+          color: #3e3e3e;
+          font-size: 13px; }
+          #RegContent .containerReg .RegContentD .RegContentDC p span a {
+            color: #ed3f7e; }
+        #RegContent .containerReg .RegContentD .RegContentDC .regbtn {
+          display: block;
+          width: 100%;
+          background: #ec3e7d;
+          line-height: 40px;
+          color: #fff;
+          font-size: 16px;
+          margin-top: 20px; }
+        #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCname {
+          position: relative; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCname span {
+            position: absolute; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCname #nameok {
+            right: 10px;
+            top: 7px; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCname #sqlok {
+            left: 10px;
+            bottom: 2px; }
+        #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCpass {
+          position: relative; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCpass span {
+            position: absolute; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCpass #passok {
+            right: 10px;
+            top: 7px; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCpass #passq {
+            left: 10px;
+            bottom: 2px; }
+        #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCagan {
+          position: relative; }
+          #RegContent .containerReg .RegContentD .RegContentDC .RegContentDCagan #aganok {
+            position: absolute;
+            left: 10px;
+            bottom: 2px; }
+
+/*# sourceMappingURL=reg.css.map */

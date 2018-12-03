@@ -1,0 +1,115 @@
+body{
+    background: white;
+}
+#LogLogo{
+    width: 100%;
+    .containerLog{
+        height: 95px;
+        img{
+            margin-top: 21px;
+            width: 181px;
+            height: 45px;
+        }
+    }
+}
+#LogContent{
+    width: 100%;
+    margin-top: 40px;
+    .containerLog{
+        height: 553px;
+        background: url(../img/logAndreg/27fc85e036219ba5f0cac20ddad979b866b441e8.png)no-repeat 0 center;
+        .LogContentD{
+            width: 350px;
+            margin-right: 68px;
+            height: 473px;
+            box-shadow: 0 0 5px #e1e1e1, 0 0 15px #e1e1e1;
+            padding: 35px;
+            .LogContentDb{
+                    height: 22px;
+                    line-height: 22px;
+                    font-family: 'Microsoft Yahei';
+                    color: #5a5d6c;
+                    font-weight: normal;
+                    font-size: 21px;
+                    span{
+                        font-size: 12px;
+                        a{
+                                color: #ec3e7d;
+                                    margin-left: 3px;
+                                margin-right: 3px;
+                        }
+                    }
+            }
+            .LogContentDC{
+                margin-top: 40px;
+                div{
+                    height: 61px;
+                    width: 100%;
+                    .icon-sr{
+                            background: url(../img/logAndreg/q.png) 6px -120px no-repeat;
+                            text-indent: 24px;
+                    }
+                    .icon-suo{
+                            background: url(../img/logAndreg/q.png) 6px -160px no-repeat;
+                            text-indent: 24px;
+                    }
+                }
+                input{
+                        height: 26px;
+                    line-height: 26px;
+                    padding: 4px;
+                    border:1px solid #cccccc;
+                }
+                .inputes{
+                        width: 340px;
+                }
+                .Yzm{
+                    width: 130px;
+                }
+                p{
+                    span{
+                        color: #3e3e3e;
+                            font-size: 13px;
+                            a{
+                                color: #ed3f7e;
+                            }
+                    }
+                }
+                .Logbtn{
+                    display: block;
+                    width: 100%;
+                    background: #ec3e7d;
+                    line-height: 40px;
+                    color: #fff;
+                    font-size: 16px;
+                    margin-top: 20px;
+                }
+                
+            }
+            .other{
+                padding-top: 40px;
+                p{
+                    font-size: 14px;
+                }
+                ul{
+                    li{
+                        float: left;
+                            width: 115px;
+                        padding: 10px 0;
+                        font-size: 12px;
+                        a{
+                            margin-left: 3px;
+                        margin-right: 3px;
+                        color: black;
+                        img{
+                                vertical-align: middle;
+    margin-right: 5px;
+    height: 35px;
+                        }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

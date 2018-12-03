@@ -1,0 +1,555 @@
+#DetContent {
+  width: 100%; }
+  #DetContent .container .DetConNav {
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    margin: 15px auto;
+    color: #888888; }
+    #DetContent .container .DetConNav a {
+      float: left;
+      color: #888888;
+      font-size: 14px; }
+  #DetContent .container .DetConD {
+    height: 753px;
+    background: white;
+    width: 100%;
+    margin-bottom: 30px; }
+    #DetContent .container .DetConD .DetConDfl {
+      width: 550px;
+      background: white; }
+      #DetContent .container .DetConD .DetConDfl .DetConDflO {
+        width: 500px;
+        margin: 25px auto;
+        position: relative;
+        height: 513px; }
+        #DetContent .container .DetConD .DetConDfl .DetConDflO .ssAndrm {
+          width: 55px;
+          height: 55px; }
+        #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConDflOimg {
+          width: 300px;
+          height: 300px;
+          line-height: 298px;
+          padding: 0 100px; }
+          #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConDflOimg #glassdiv {
+            position: relative; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConDflOimg #glassdiv img {
+              width: 300px;
+              height: 300px;
+              margin: 0 auto; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConDflOimg #glassdiv .hand {
+              display: none;
+              width: 200px;
+              height: 150px;
+              left: 0px;
+              top: 0;
+              border: 1px #CCCCCC solid;
+              position: absolute;
+              z-index: 1;
+              overflow: hidden;
+              background-color: #B3D5FF;
+              opacity: 0.5;
+              line-height: 1;
+              cursor: move; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConDflOimg #glassdiv .glass {
+              display: none;
+              position: absolute;
+              width: 400px;
+              height: 300px;
+              top: 97px;
+              left: 563px;
+              border: darkgray 1px solid;
+              overflow: hidden; }
+        #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConsear {
+          position: absolute;
+          right: 0;
+          bottom: 200px; }
+        #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConpinp {
+          width: 88%;
+          margin: 0 auto 20px auto;
+          margin-top: 5px; }
+          #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConpinp dd {
+            float: left;
+            display: inline-block;
+            margin-right: 10px;
+            color: #999;
+            font-size: 14px; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConpinp dd img {
+              vertical-align: middle;
+              margin-right: 5px;
+              max-height: 20px;
+              max-width: 20px; }
+        #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg {
+          margin-top: 20px;
+          position: relative;
+          clear: left; }
+          #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgs {
+            position: absolute;
+            top: 0;
+            margin-top: 5px;
+            height: 105px;
+            line-height: 64px;
+            text-align: center;
+            border-radius: 8px; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgs a {
+              color: #e5cbb2;
+              font-size: 28px;
+              margin-left: -1px;
+              display: block;
+              margin-top: 15px; }
+          #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgfr {
+            right: 0; }
+          #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgcenter {
+            padding-top: 5px;
+            overflow: hidden;
+            width: 450px;
+            height: 105px; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgcenter ul li {
+              float: left;
+              width: 100px;
+              height: 100px;
+              line-height: 100px;
+              border: 1px solid #dddddd;
+              overflow: hidden;
+              text-align: center;
+              font-family: Arial;
+              margin-right: 10px; }
+              #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgcenter ul li a img {
+                max-width: 60px;
+                max-height: 60px;
+                vertical-align: middle; }
+            #DetContent .container .DetConD .DetConDfl .DetConDflO .DetConlistimg .listimgcenter ul .listimgcenAc {
+              border: 5px solid #e5cbb2;
+              width: 93px;
+              height: 94px; }
+    #DetContent .container .DetConD .DetConDfr {
+      width: 570px;
+      background: white;
+      padding-top: 25px;
+      margin-right: 40px; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrDo {
+        padding-bottom: 30px;
+        text-align: left;
+        font-size: 22px;
+        font-weight: normal; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDo .icon66 {
+          font-size: 15px;
+          color: #fff;
+          background: #EC3E7C;
+          margin-right: 5px;
+          float: left;
+          display: inline-block;
+          border-radius: 2px;
+          height: 22px;
+          line-height: 22px;
+          padding: 0 5px;
+          position: relative;
+          top: 2px; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrDt {
+        position: relative;
+        padding: 5px 0 10px 0;
+        margin-bottom: 5px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDt span {
+          height: 24px;
+          color: #888888;
+          padding-left: 8px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDt span b {
+            color: #ec3e7d;
+            font-size: 35px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDt span del {
+            font-size: 14px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDt span i {
+            color: #cb9966;
+            font-size: 16px; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrDth {
+        padding: 20px 0; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDth div {
+          padding-bottom: 5px;
+          padding-top: 5px;
+          line-height: 22px;
+          font-size: 14px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDth div i {
+            background: #c69a62;
+            color: #fff;
+            border-radius: 3px;
+            font-weight: bold;
+            padding: 2px 8px; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrDfo {
+        padding: 18px 0 14px;
+        border-top: 1px solid #d8d8d8;
+        border-bottom: 1px solid #d8d8d8;
+        margin-bottom: 5px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDfo .dispatching {
+          font-size: 14px;
+          color: #333; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDfo .dispatching li {
+            height: 30px; }
+            #DetContent .container .DetConD .DetConDfr .DetConDfrDfo .dispatching li .yi {
+              display: inline-block;
+              width: 50px;
+              letter-spacing: 5px;
+              color: #959595; }
+            #DetContent .container .DetConD .DetConDfr .DetConDfrDfo .dispatching li .san {
+              margin-right: 20px; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy {
+        padding: 10px 0;
+        margin-top: 10px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .theyy {
+          margin-bottom: 20px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .one {
+          height: 28px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .one .onebtn {
+            display: inline-block;
+            width: 20px;
+            height: 21px;
+            overflow: hidden;
+            vertical-align: middle;
+            border: 1px solid #f2f2f2;
+            text-align: center;
+            font: 14px/22px simsun,serif;
+            background: #f2f2f1;
+            font-weight: bold;
+            cursor: pointer; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .one .onetex {
+            width: 30px;
+            height: 21px;
+            line-height: 21px;
+            padding: 0;
+            margin: 0;
+            vertical-align: middle;
+            border-width: 1px 0;
+            border-style: solid;
+            border-color: #f2f2f2;
+            text-align: center; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two .twobtn {
+          margin-right: 15px;
+          width: 220px;
+          height: 50px;
+          background: #ec3e7d;
+          line-height: 50px;
+          overflow: hidden;
+          font-weight: bold;
+          display: inline-block;
+          vertical-align: middle;
+          text-align: center;
+          font-size: 16px;
+          color: white; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two span {
+          display: inline-block;
+          border: 1px solid #dedede;
+          padding: 15px 18px;
+          color: #999999;
+          position: relative;
+          cursor: pointer; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two span i {
+            color: #999999;
+            font-size: 12px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two span .erweima {
+            display: none;
+            position: absolute;
+            top: -195px;
+            left: 2px;
+            border: 1px solid #cccccc;
+            box-shadow: 1px 1px 1px rgba(151, 151, 151, 0.5); }
+            #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two span .erweima img {
+              width: 196px;
+              height: 196px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrDBuy .two #ewmCart:hover div {
+          display: block; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrScore {
+        padding-top: 25px;
+        color: #3e3e3e; }
+      #DetContent .container .DetConD .DetConDfr .DetConDfrShare {
+        margin-top: 20px; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrShare .Collect {
+          padding: 0 3px;
+          color: #666;
+          font-size: 14px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrShare .Collect i {
+            color: #666; }
+        #DetContent .container .DetConD .DetConDfr .DetConDfrShare .Share {
+          width: 230px; }
+          #DetContent .container .DetConD .DetConDfr .DetConDfrShare .Share ul li {
+            float: left;
+            font-size: 14px;
+            color: #3e3e3e; }
+            #DetContent .container .DetConD .DetConDfr .DetConDfrShare .Share ul li a {
+              line-height: 16px;
+              white-space: nowrap;
+              width: 20px;
+              height: 20px;
+              display: inline-block;
+              margin-right: 5px;
+              background: url(../img/detail/share.png) no-repeat; }
+  #DetContent .container .DetConMain {
+    width: 100%; }
+    #DetContent .container .DetConMain .DetConMainfl {
+      width: 253px;
+      margin-bottom: 30px;
+      background: white; }
+      #DetContent .container .DetConMain .DetConMainfl .ListMainDflBsB {
+        height: 50px;
+        line-height: 50px;
+        border-left: 5px solid #c69a62;
+        border-bottom: 1px solid #ebebeb;
+        color: #585c65;
+        font-size: 16px;
+        padding-left: 12px;
+        position: relative; }
+      #DetContent .container .DetConMain .DetConMainfl ul li {
+        height: 69px;
+        border-top: 1px dashed #d4d4d4;
+        padding: 20px 10px;
+        margin-top: -1px; }
+        #DetContent .container .DetConMain .DetConMainfl ul li a {
+          display: block;
+          width: 69px;
+          height: 69px;
+          overflow: hidden;
+          float: left;
+          text-align: center;
+          color: black; }
+          #DetContent .container .DetConMain .DetConMainfl ul li a img {
+            max-width: 69px;
+            max-height: 69px; }
+        #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon {
+          margin-left: 79px;
+          overflow: hidden; }
+          #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon a {
+            width: 100%;
+            height: 100%;
+            font-size: 14px;
+            white-space: nowrap;
+            margin-bottom: 5px;
+            text-overflow: ellipsis; }
+            #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon a b {
+              color: #ee9c23; }
+          #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon div {
+            height: 22px;
+            line-height: 22px; }
+            #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon div .span1 {
+              color: #ec3e7d; }
+            #DetContent .container .DetConMain .DetConMainfl ul li .ListMainDflBsCon div .span2 {
+              margin-left: 5px;
+              color: #959595;
+              text-decoration: line-through; }
+    #DetContent .container .DetConMain .DetConMainfr {
+      width: 920px; }
+      #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs {
+        width: 920px;
+        background: #fff;
+        height: 50px; }
+        #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .Cses {
+          font-size: 14px;
+          float: left;
+          margin-right: 5px;
+          font-weight: normal; }
+          #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .Cses a {
+            color: #555c67;
+            border: 1px solid white;
+            display: block;
+            padding: 2px 26px;
+            height: 42px;
+            line-height: 42px;
+            font-size: 16px; }
+        #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .CsActive {
+          border-bottom: 3px solid #c69a62; }
+        #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .CsAddcart {
+          width: 260px;
+          float: right; }
+          #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .CsAddcart b {
+            color: #ec3e7d;
+            line-height: 50px; }
+          #DetContent .container .DetConMain .DetConMainfr .DetConMainfrcs .CsAddcart .addcbtn {
+            background: #ec3e7d;
+            padding: 0px 20px;
+            height: 50px;
+            line-height: 50px;
+            color: #fff;
+            font-size: 16px;
+            float: right;
+            margin-left: 15px;
+            border-radius: 0;
+            display: inline-block;
+            white-space: nowrap;
+            vertical-align: middle; }
+      #DetContent .container .DetConMain .DetConMainfr .Proparm {
+        width: 100%;
+        margin-top: 25px;
+        padding-top: 20px;
+        background-color: #fff; }
+        #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmTitle {
+          height: 32px;
+          border-left: 3px solid #db3f7e; }
+          #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmTitle .Titleimg {
+            line-height: 32px;
+            font-weight: 400;
+            padding-left: 10px;
+            font-size: 21px;
+            background: url(../img/detail/probt.png) no-repeat 110px 3px;
+            background-position: 110px 3px; }
+        #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmMain {
+          padding: 30px 45px; }
+          #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmMain ul li {
+            clear: both;
+            color: #333;
+            padding: 7px 0;
+            font-size: 14px; }
+            #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmMain ul li span {
+              width: 140px;
+              color: #666;
+              display: inline-block; }
+            #DetContent .container .DetConMain .DetConMainfr .Proparm .ProparmMain ul li div {
+              width: 580px;
+              float: right;
+              text-align: left; }
+      #DetContent .container .DetConMain .DetConMainfr .Description {
+        width: 100%;
+        background: #fff;
+        overflow: hidden;
+        margin-top: 26px;
+        padding-top: 20px; }
+        #DetContent .container .DetConMain .DetConMainfr .Description .DescriptionTit {
+          height: 32px;
+          border-left: 3px solid #db3f7e; }
+          #DetContent .container .DetConMain .DetConMainfr .Description .DescriptionTit .Titleimg {
+            background: url(../img/detail/probt.png) no-repeat 110px 3px;
+            background-position: 110px -46px;
+            line-height: 32px;
+            font-weight: 400;
+            padding-left: 10px;
+            font-size: 21px; }
+        #DetContent .container .DetConMain .DetConMainfr .Description .DescriptionImgs {
+          padding: 40px 30px; }
+          #DetContent .container .DetConMain .DetConMainfr .Description .DescriptionImgs img {
+            float: left;
+            width: 100%;
+            height: auto; }
+      #DetContent .container .DetConMain .DetConMainfr .ProPhoto {
+        width: 100%;
+        background: #fff;
+        overflow: hidden;
+        margin-top: 26px;
+        padding-top: 20px; }
+        #DetContent .container .DetConMain .DetConMainfr .ProPhoto .ProPhotoTit {
+          height: 32px;
+          border-left: 3px solid #db3f7e; }
+          #DetContent .container .DetConMain .DetConMainfr .ProPhoto .ProPhotoTit .Titleimg {
+            background: url(../img/detail/probt.png) no-repeat 110px 3px;
+            background-position: 110px -100px;
+            line-height: 32px;
+            font-weight: 400;
+            padding-left: 10px;
+            font-size: 21px; }
+        #DetContent .container .DetConMain .DetConMainfr .ProPhoto .ProPhotoImgs {
+          padding: 40px 30px; }
+          #DetContent .container .DetConMain .DetConMainfr .ProPhoto .ProPhotoImgs img {
+            float: left;
+            width: 100%;
+            height: auto; }
+      #DetContent .container .DetConMain .DetConMainfr .UserRat {
+        width: 100%;
+        background: #fff;
+        overflow: hidden;
+        margin-top: 26px;
+        padding-top: 20px; }
+        #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatTit {
+          height: 32px;
+          border-left: 3px solid #db3f7e; }
+          #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatTit .Titleimg {
+            background: url(../img/detail/probt.png) no-repeat 110px 3px;
+            background-position: 110px -146px;
+            line-height: 32px;
+            font-weight: 400;
+            padding-left: 10px;
+            font-size: 21px; }
+        #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain {
+          padding: 10px;
+          line-height: 24px; }
+          #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain .fen {
+            width: 100%;
+            margin-top: 20px; }
+            #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain .fen p {
+              font-size: 24px;
+              line-height: 40px;
+              padding-left: 45px;
+              color: #db3f7e; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain .fen p b {
+                font-size: 36px; }
+          #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li {
+            margin: 15px 0 40px 0; }
+            #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfl {
+              width: 145px;
+              float: left;
+              text-align: center;
+              margin-right: 5px;
+              font-size: 14px; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfl .member {
+                width: 60px;
+                height: 60px;
+                line-height: 58px;
+                overflow: hidden;
+                text-align: center;
+                font-family: Arial;
+                margin: 0 auto;
+                padding: 1px; }
+                #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfl .member .icon-wode {
+                  font-size: 60px;
+                  color: #e4e4e4; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfl .memberinfo .twot {
+                width: 145px;
+                word-break: break-all;
+                line-height: 16px; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfl .SkinType {
+                color: #b2b2b2;
+                line-height: 32px; }
+            #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr {
+              position: relative;
+              width: 575px;
+              margin-left: 150px;
+              padding: 20px 24px;
+              background-color: #f2f2f2;
+              border-radius: 2px; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .UserRatMainUlfrGood {
+                width: 62px;
+                height: 72px;
+                background: url(../img/detail/tips.png) no-repeat 0 -261px;
+                position: absolute;
+                right: 18px;
+                top: -4px; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .PointLeft {
+                position: absolute;
+                overflow: hidden;
+                width: 20px;
+                height: 20px;
+                top: 20px;
+                left: -14px; }
+                #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .PointLeft .icon-sanjiaoleft {
+                  color: #f2f2f2;
+                  font-size: 20px; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .discussLabel {
+                overflow: hidden;
+                padding-bottom: 5px; }
+                #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .discussLabel .comlstTit {
+                  float: left;
+                  margin-right: 20px;
+                  color: #ec3e7d;
+                  font-size: 18px;
+                  width: 40%;
+                  white-space: nowrap;
+                  text-overflow: ellipsis;
+                  overflow: hidden; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .disContent {
+                clear: right;
+                padding: 8px;
+                border-top: 1px solid #ec3e7d;
+                color: #575e68; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .disDetail {
+                color: #575e68; }
+              #DetContent .container .DetConMain .DetConMainfr .UserRat .UserRatMain #UserRatMainUl li .UserRatMainUlfr .disTime {
+                font-size: 14px;
+                color: #bebebe;
+                clear: both;
+                line-height: 40px; }
+
+/*# sourceMappingURL=detail.css.map */

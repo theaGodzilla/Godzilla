@@ -1,0 +1,703 @@
+@charset "UTF-8";
+#HeaderNav .container #NavD {
+  position: relative; }
+  #HeaderNav .container #NavD #NavDTwo {
+    position: absolute;
+    z-index: 100; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis {
+      padding: 14.25px 14px;
+      background: #fa3778;
+      width: 162px;
+      border-bottom: 1px dotted #fe7dab; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis .NavDTwoUllisIfl {
+        color: white !important;
+        font-weight: normal;
+        font-size: 20px;
+        padding: 5px 0;
+        margin-right: 11px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis .icon-youjiantou {
+        color: white;
+        font-weight: normal;
+        font-size: 13px;
+        float: right;
+        line-height: 27px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis .NavDTwoUllisIflAho:hover {
+        color: black !important; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis:hover {
+      background: white !important; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis:hover .NavDTwoUllisIfl {
+      color: #FA3778 !important; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis:hover .icon-youjiantou {
+      color: #333; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllis:hover .NavDTwoUllisIflAho {
+      color: #FA3778; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD {
+      background: white;
+      display: none;
+      width: 290px;
+      border: 1px solid #fa3778;
+      position: absolute;
+      top: -1px;
+      left: 189px;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li div {
+        width: 100%; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li div dl dd:hover {
+          color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlone {
+        height: 41px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUltwo {
+        height: 61px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlThree {
+        height: 41px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlFour {
+        height: 56px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlFive {
+        height: 41px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlSix {
+        height: 56px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisOne #NavDTwoUllisOneD #NavDTwoUllisOneDUl li .NavDTwoUllisOneDUlSeven {
+        height: 56px; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 52px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD #NavDTwoUllisTwoDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD #NavDTwoUllisTwoDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD #NavDTwoUllisTwoDUl li div {
+        width: 100%;
+        height: 24px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD #NavDTwoUllisTwoDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisTwo #NavDTwoUllisTwoD #NavDTwoUllisTwoDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 104px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD #NavDTwoUllisThreeDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD #NavDTwoUllisThreeDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD #NavDTwoUllisThreeDUl li div {
+        width: 100%;
+        height: 24px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD #NavDTwoUllisThreeDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisThree #NavDTwoUllisThreeD #NavDTwoUllisThreeDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 157px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD #NavDTwoUllisFourDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD #NavDTwoUllisFourDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD #NavDTwoUllisFourDUl li div {
+        width: 100%;
+        height: 41px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD #NavDTwoUllisFourDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFour #NavDTwoUllisFourD #NavDTwoUllisFourDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 209px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD #NavDTwoUllisFiveDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD #NavDTwoUllisFiveDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD #NavDTwoUllisFiveDUl li div {
+        width: 100%;
+        height: 41px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD #NavDTwoUllisFiveDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisFive #NavDTwoUllisFiveD #NavDTwoUllisFiveDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 262px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD #NavDTwoUllisSixDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD #NavDTwoUllisSixDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD #NavDTwoUllisSixDUl li div {
+        width: 100%;
+        height: 41px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD #NavDTwoUllisSixDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSix #NavDTwoUllisSixD #NavDTwoUllisSixDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 314px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD #NavDTwoUllisSevenDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD #NavDTwoUllisSevenDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD #NavDTwoUllisSevenDUl li div {
+        width: 100%;
+        height: 41px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD #NavDTwoUllisSevenDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisSeven #NavDTwoUllisSevenD #NavDTwoUllisSevenDUl li div dl dd:hover {
+          color: #ec3e7d; }
+    #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD {
+      background: white;
+      display: none;
+      position: absolute;
+      top: 367px;
+      left: 189px;
+      width: 290px;
+      border: 1px solid #fa3778;
+      z-index: -100;
+      padding: 10px 25px; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD #NavDTwoUllisEightDUl li h1 {
+        font-size: 14px;
+        color: #555;
+        height: 38px;
+        line-height: 30px;
+        font-weight: 600;
+        cursor: pointer; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD #NavDTwoUllisEightDUl li h1:hover {
+        color: #ec3e7d; }
+      #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD #NavDTwoUllisEightDUl li div {
+        width: 100%;
+        height: 41px; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD #NavDTwoUllisEightDUl li div dl dd {
+          float: left;
+          color: #999;
+          font-size: 12px;
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 4px;
+          cursor: pointer; }
+        #HeaderNav .container #NavD #NavDTwo .NavDTwoUl .NavDTwoUllisEight #NavDTwoUllisEightD #NavDTwoUllisEightDUl li div dl dd:hover {
+          color: #ec3e7d; }
+
+#Banner {
+  width: 100%;
+  margin: 0 auto; }
+  #Banner #BannerD {
+    width: 100%;
+    height: 420px;
+    position: relative;
+    z-index: 1; }
+    #Banner #BannerD .BannerDUl li {
+      position: absolute;
+      z-index: -110;
+      width: 100%;
+      height: 420px;
+      overflow: hidden;
+      margin: 0;
+      border: 0; }
+      #Banner #BannerD .BannerDUl li a {
+        display: block;
+        max-width: 2800px;
+        min-width: 1280px;
+        height: 450px;
+        margin: 0 auto; }
+    #Banner #BannerD .BannerDOl {
+      position: absolute;
+      z-index: 9999999;
+      bottom: 10px;
+      left: 46%; }
+      #Banner #BannerD .BannerDOl li {
+        width: 15px;
+        height: 15px;
+        float: left;
+        margin-left: 7px;
+        margin-right: 7px;
+        cursor: pointer;
+        border-radius: 50%;
+        background: #333;
+        border: 3px solid rgba(255, 255, 255, 0.7); }
+      #Banner #BannerD .BannerDOl .selected {
+        background: #fa3778;
+        opacity: 1; }
+  #Banner #BannerDTwo {
+    width: 100%;
+    height: 28px;
+    background: #ececec;
+    position: relative;
+    z-index: -200; }
+    #Banner #BannerDTwo .container #BannerDTwoD {
+      overflow: hidden;
+      height: 28px;
+      width: 300px; }
+      #Banner #BannerDTwo .container #BannerDTwoD #BannerDTwoUl {
+        margin-left: 18px; }
+        #Banner #BannerDTwo .container #BannerDTwoD #BannerDTwoUl li {
+          height: 28px;
+          line-height: 28px;
+          color: #999999;
+          font-size: 12px; }
+        #Banner #BannerDTwo .container #BannerDTwoD #BannerDTwoUl li:hover {
+          color: #fa3778; }
+
+#MainOne .MainOneD .container {
+  height: 190px;
+  padding-top: 20px; }
+  #MainOne .MainOneD .container a {
+    margin-right: 15px; }
+    #MainOne .MainOneD .container a img {
+      transition: all 0.25s; }
+#MainOne .promi .container {
+  height: 121px; }
+  #MainOne .promi .container .promiD {
+    width: 192px;
+    height: 120px;
+    margin-right: 60px; }
+    #MainOne .promi .container .promiD .promiB {
+      margin-top: 42px;
+      width: 32px;
+      height: 32px;
+      background: url(../img/top/promise_icon.png) no-repeat; }
+    #MainOne .promi .container .promiD .promiZ {
+      margin-top: 38px;
+      margin-left: 10px; }
+      #MainOne .promi .container .promiD .promiZ .promiZyuO {
+        font-size: 18px;
+        color: #222; }
+      #MainOne .promi .container .promiD .promiZ .promiZyuT {
+        font-size: 13px;
+        color: #999999;
+        margin-top: 4px; }
+
+#MainEvery {
+  position: relative; }
+  #MainEvery .container {
+    height: 1174px; }
+    #MainEvery .container .MainEveryB {
+      width: 100%;
+      height: 26px;
+      margin-top: 10px;
+      margin-bottom: 26px;
+      background: url(../img/top/must_check.png) no-repeat; }
+    #MainEvery .container .MainEveryContent {
+      width: 100%; }
+      #MainEvery .container .MainEveryContent #MainEveryContentUl li {
+        width: 592px;
+        height: 278px;
+        float: left;
+        cursor: pointer; }
+        #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD {
+          height: 260px; }
+          #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne {
+            width: 230px;
+            height: 260px;
+            background: white;
+            text-align: center; }
+            #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne p:nth-child(1) {
+              margin-top: 60px;
+              font-size: 22px;
+              color: #e93b78; }
+            #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne p:nth-child(2) {
+              color: #5a5a5a;
+              font-size: 17px;
+              margin-top: 10px; }
+            #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne P:nth-child(3) {
+              color: #5a5a5a;
+              font-size: 13px;
+              margin-top: 3px; }
+            #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne span {
+              display: inline-block;
+              width: 108px;
+              height: 32px;
+              line-height: 32px;
+              text-align: center;
+              background: #E93B78;
+              color: white;
+              font-size: 16px;
+              margin-top: 30px; }
+            #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD .EveryUlisDOne span:hover {
+              background: #c53265; }
+        #MainEvery .container .MainEveryContent #MainEveryContentUl li #EveryUlisD:hover {
+          box-shadow: 0px 3px 2px 0px #E5E5E5; }
+      #MainEvery .container .MainEveryContent #MainEveryContentUl li:nth-child(odd) {
+        margin-right: 16px; }
+  #MainEvery .indexlou {
+    display: none;
+    position: absolute;
+    left: 30px;
+    top: 52px; }
+    #MainEvery .indexlou ul li {
+      width: 45px;
+      height: 47px;
+      padding: 5px;
+      background: #fff;
+      font-size: 11px;
+      text-align: center;
+      margin-bottom: 1px; }
+      #MainEvery .indexlou ul li a {
+        color: black; }
+        #MainEvery .indexlou ul li a i {
+          font-size: 25px;
+          display: block;
+          margin: 0 auto;
+          color: black;
+          font-weight: normal; }
+    #MainEvery .indexlou ul li:hover {
+      background: #ec3e7d; }
+      #MainEvery .indexlou ul li:hover a {
+        color: white; }
+        #MainEvery .indexlou ul li:hover a i {
+          color: white; }
+    #MainEvery .indexlou ul .indexlouact {
+      background: #ec3e7d; }
+      #MainEvery .indexlou ul .indexlouact a {
+        color: white; }
+        #MainEvery .indexlou ul .indexlouact a i {
+          color: white; }
+
+#FlashSale .container .FlashSaleB {
+  width: 100%;
+  height: 26px;
+  background: url(../img/top/limitted_offer.png) no-repeat;
+  margin-bottom: 10px;
+  margin-top: 34px; }
+#FlashSale .container .FlashSaleBp {
+  font-size: 20px;
+  text-align: center; }
+#FlashSale .container .FlashSaleD {
+  margin-top: 26px; }
+  #FlashSale .container .FlashSaleD #FlashSaleUl li {
+    height: 386px; }
+    #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY {
+      background: white;
+      height: 360px;
+      position: relative; }
+      #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .zhekou {
+        width: 68px;
+        height: 68px;
+        left: 16px;
+        top: 12px;
+        padding: 23px 20px 0 0;
+        text-align: center;
+        display: block;
+        position: absolute;
+        background: url(../img/EveryDayLook/discount_circle.png) no-repeat;
+        z-index: 10;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        color: #fff; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .zhekou span {
+          font-family: "Arial";
+          font-size: 24px;
+          font-weight: normal;
+          margin-right: 0px;
+          display: inline-block;
+          font-style: italic; }
+      #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon {
+        width: 480px;
+        height: 320px;
+        margin: 40px 40px 0 40px; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .time {
+          height: 24px;
+          padding: 0 10px;
+          background-color: #414141;
+          color: #fff;
+          line-height: 24px;
+          text-align: center;
+          font-size: 13px;
+          display: inline-block; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .con {
+          height: 120px;
+          font-size: 17px;
+          line-height: 30px;
+          margin-top: 10px;
+          margin-bottom: 10px;
+          color: #222; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .con span {
+            font-size: 34px;
+            margin-right: 5px;
+            color: #d9d9d9;
+            font-family: "楷体";
+            line-height: 34px; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .contitle {
+          font-size: 13px;
+          color: #666; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .contitle b {
+            color: #ee9c23; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .conprice {
+          margin-top: 20px; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .conprice span:nth-child(1) {
+            font-size: 20px;
+            display: block;
+            float: left;
+            margin-top: -4px;
+            font-weight: 600;
+            color: #fc3f83; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .conprice span:nth-child(2) {
+            font-size: 32px;
+            font-family: "Arial";
+            line-height: 30px;
+            font-weight: 600;
+            color: #fc3f83; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .conprice span:nth-child(3) {
+            color: #999;
+            line-height: 23px;
+            font-size: 13px;
+            text-decoration: line-through; }
+        #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .consale {
+          width: 480px;
+          height: 32px;
+          margin-top: 15px; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .consale span {
+            width: 100px;
+            height: 13px;
+            line-height: 13px;
+            margin-top: 19px;
+            color: #999;
+            font-size: 12px; }
+          #FlashSale .container .FlashSaleD #FlashSaleUl li .FlashSaleUlYY .FlashSaleUlcon .consale input {
+            width: 92px;
+            height: 32px;
+            line-height: 32px;
+            text-align: center;
+            cursor: pointer;
+            background-color: #e93b78;
+            color: #fff;
+            font-size: 16px;
+            letter-spacing: 1px; }
+  #FlashSale .container .FlashSaleD #FlashSaleUl li:hover .FlashSaleUlYY {
+    box-shadow: 0 0 2px 5px #eee; }
+#FlashSale .container .FlashSaleMove {
+  width: 100%;
+  height: 56px;
+  text-align: center; }
+  #FlashSale .container .FlashSaleMove a {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    color: white;
+    width: 160px !important;
+    border-radius: 24px;
+    background: #fc3f83 !important;
+    font-family: "Arial";
+    font-size: 14px; }
+
+#Charts {
+  width: 100%;
+  margin-bottom: 35px; }
+  #Charts .container .ChartsB {
+    height: 26px;
+    background: url(../img/EveryDayLook/title_ranking.png) no-repeat;
+    margin: 0 auto;
+    margin-top: 38px;
+    margin-bottom: 26px; }
+  #Charts .container .ChartsMainb {
+    width: 100%;
+    height: 66px;
+    border-radius: 20px;
+    position: relative;
+    top: 0;
+    z-index: 20; }
+    #Charts .container .ChartsMainb .divs {
+      background: white;
+      position: absolute;
+      width: 276px;
+      height: 64px;
+      line-height: 64px;
+      border: 2px solid #fc3f83;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+      text-align: center;
+      font-size: 22px;
+      cursor: pointer; }
+    #Charts .container .ChartsMainb .hf {
+      left: 137px; }
+    #Charts .container .ChartsMainb .cz {
+      left: 459px; }
+    #Charts .container .ChartsMainb .gh {
+      left: 782px; }
+    #Charts .container .ChartsMainb .phbacti {
+      border-bottom-color: white; }
+  #Charts .container .ChartsMain {
+    width: 100%;
+    height: 290px;
+    background: white;
+    border: 2px solid #fc3f83;
+    position: relative;
+    z-index: 10;
+    padding: 20px; }
+    #Charts .container .ChartsMain ul li {
+      position: relative;
+      border: 2px solid #908484;
+      padding: 10px;
+      width: 500px;
+      height: 100px;
+      float: left;
+      margin-left: 47px;
+      margin-bottom: 15px;
+      margin-top: 10px; }
+      #Charts .container .ChartsMain ul li img {
+        height: 100px;
+        width: 100px; }
+      #Charts .container .ChartsMain ul li div {
+        width: 380px;
+        display: inline-block;
+        margin-left: 10px; }
+        #Charts .container .ChartsMain ul li div .theone {
+          margin-top: 10px;
+          height: 25px; }
+          #Charts .container .ChartsMain ul li div .theone a {
+            color: black;
+            font-size: 15px; }
+            #Charts .container .ChartsMain ul li div .theone a b {
+              color: #ee9c23; }
+        #Charts .container .ChartsMain ul li div .thetwo {
+          margin-top: 5px; }
+          #Charts .container .ChartsMain ul li div .thetwo i b {
+            color: #fc3f83;
+            font-size: 23px;
+            line-height: 20px; }
+          #Charts .container .ChartsMain ul li div .thetwo i del {
+            color: #999; }
+        #Charts .container .ChartsMain ul li div .thethree {
+          position: absolute;
+          bottom: 7px;
+          right: 15px;
+          text-align: right;
+          font-size: 16px;
+          color: #999;
+          border-bottom: 0; }
+
+#Sidebar {
+  height: 100%;
+  width: 40px;
+  background: #4c4c4c;
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 999; }
+
+/*# sourceMappingURL=index.css.map */
